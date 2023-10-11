@@ -1,0 +1,12 @@
+// fonction classique
+let fruits = ["pomme", "poire", "banane"];
+
+fruits.forEach(function (fruit) {
+  console.log(fruit);
+});
+// fonction fléchée
+
+fruits.forEach( (fruit) => {
+  console.log(fruit);
+});
+

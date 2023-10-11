@@ -1,0 +1,11 @@
+class guerrier {
+  constructor(attack, defense) {
+    this.attack = attack;
+    this.defense = defense;
+  }
+  getAttack() {
+    console.log(`Le guerrier attaque avec ${this.attack} points !`);
+  }
+}
+let Alexis = new guerrier(10, 5);
+Alexis.getAttack();

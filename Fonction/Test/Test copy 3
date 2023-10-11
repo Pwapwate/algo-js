@@ -1,0 +1,13 @@
+let student = { 
+  name : "Nicolas",
+  favoriteFood : 'Salad',
+  city :'Paris'
+}
+
+let moi ={
+  prenom :'Stan',
+  nom :'Bouchardon',
+  age :17,
+  ville :'Suresnes',
+}
+console.log(moi)
