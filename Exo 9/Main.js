@@ -1,3 +1,5 @@
+// Correction de l'exo 9
+
 class Pokemon {
   constructor(name, attack, defense, hp, luck) {
     this.name = name;
